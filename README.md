@@ -1,2 +1,2 @@
 # Promotion Site Template
-Promotion site template with HTML and CSS.
+Promotion site template with HTML, CSS and responsive design.
